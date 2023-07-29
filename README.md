@@ -27,7 +27,7 @@ all routes path pleased here ok
 ######
 🔗 https://backend-six-topaz.vercel.app/api/v1/processors/:id
 ######
-🔗 https://backend-six-topaz.vercel.app/api/v1/psus
+🔗 https://backend-six-topaz.vercel.app/api/v1/psus (Power Supply Unit)
 ######
 🔗 https://backend-six-topaz.vercel.app/api/v1/psus/:id
 ######
@@ -46,7 +46,7 @@ all routes path pleased here ok
 ######
 🔗 https://backend-six-topaz.vercel.app/api/v1/pc-builder/pc-processors
 ######
-🔗 https://backend-six-topaz.vercel.app/api/v1/pc-builder/pc-psus
+🔗 https://backend-six-topaz.vercel.app/api/v1/pc-builder/pc-psus (Power Supply Unit)
 ######
 🔗 https://backend-six-topaz.vercel.app/api/v1/pc-builder/pc-rams
 ######
