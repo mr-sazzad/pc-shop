@@ -10,12 +10,33 @@
 
 ## Routes 🎊
 
-To learn more about Next.js, take a look at the following resources:
+https://backend-six-topaz.vercel.app/api/v1/featured
+######
+https://backend-six-topaz.vercel.app/api/v1/monitors
+https://backend-six-topaz.vercel.app/api/v1/monitors/:id
+######
+https://backend-six-topaz.vercel.app/api/v1/motherboards
+https://backend-six-topaz.vercel.app/api/v1/motherboards/:id
+######
+https://backend-six-topaz.vercel.app/api/v1/processors
+https://backend-six-topaz.vercel.app/api/v1/processors/:id
+######
+https://backend-six-topaz.vercel.app/api/v1/psus
+https://backend-six-topaz.vercel.app/api/v1/psus/:id
+######
+https://backend-six-topaz.vercel.app/api/v1/rams
+https://backend-six-topaz.vercel.app/api/v1/rams/:id
+######
+https://backend-six-topaz.vercel.app/api/v1/storages
+https://backend-six-topaz.vercel.app/api/v1/storages/:id
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Pc Builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
+https://backend-six-topaz.vercel.app/api/v1/pc-builder
 
 ## Deploy on Vercel
 
