@@ -2,7 +2,7 @@ PC SHOP PROJECT
 
 ## Getting Started
 
-FRONTEND LIVE LINK: Open [https://next-app-mr-sazzad.vercel.app/] with your browser to see the result
+FRONTEND LIVE LINK: Open https://next-app-mr-sazzad.vercel.app/ with your browser to see the result
 
 BACKEND LIVE LINK: Open [https://backend-six-topaz.vercel.app/] with your browser to see the result
 
