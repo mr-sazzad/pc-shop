@@ -1,12 +1,14 @@
-PC SHOP PROJECT
+# 👨🏾‍💻 PC SHOP PROJECT 👨🏾‍💻
 
-## Getting Started
+## Getting Started 🎯
 
-FRONTEND LIVE LINK: Open https://next-app-mr-sazzad.vercel.app/ with your browser to see the result
+FRONTEND LIVE LINK:
+ Open 🔗 https://next-app-mr-sazzad.vercel.app/ with your browser to see the result 🚀
 
-BACKEND LIVE LINK: Open [https://backend-six-topaz.vercel.app/] with your browser to see the result
+BACKEND LIVE LINK:
+ Open 🔗 https://backend-six-topaz.vercel.app/ with your browser to see the result 🚀
 
-## Routes
+## Routes 🎊
 
 To learn more about Next.js, take a look at the following resources:
 
